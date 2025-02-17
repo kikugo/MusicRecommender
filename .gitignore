@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# Distribution / packaging
+*.egg
+*.whl
+dist/
+build/
+develop-eggs/
+parts/
+eggs/
+lib/
+lib64/
+sdist/
+*.git
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this.txt
+pip-wheel-metadata/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.py,cover
+.py.cover
+.nosetest
+.pytest_cache/
+junit*.xml
+coverage.xml
+*.cover
+*.py.cover
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Build system files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.app
+*.DS_Store
